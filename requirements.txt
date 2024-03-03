@@ -1,0 +1,7 @@
+Gunicorn
+Flask==2.0.2
+pytube==11.0.1
+pydub==0.25.1
+beautifulsoup4==4.10.0
+requests==2.26.0
+yt-dlp==2022.01.24
